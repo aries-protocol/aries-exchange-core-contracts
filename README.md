@@ -10,6 +10,6 @@ Aries Exchange implements the standard Uniswap v2 protocol.
 
 Factory init code hash: `0x69321782554c4cd359639e747a6a75b489b098165f03a8c5f9272f132818006e`
 
-**UniswapV2Router02**: [0x9Da46503FbB184566B90D7777EA4F58427A7c35F](https://testnet.aurorascan.dev/address/0x9Da46503FbB184566B90D7777EA4F58427A7c35F)
+**UniswapV2Router02**: [0x345cbDB19556a2CB563069837fCf1925F27E4e9f](https://testnet.aurorascan.dev/address/0x345cbDB19556a2CB563069837fCf1925F27E4e9f)
 
 **WETH9**: [0x8886E7A8883e9A40b30Bd4E16e0e25C2C3f29Cd8](https://testnet.aurorascan.dev/address/0x8886E7A8883e9A40b30Bd4E16e0e25C2C3f29Cd8)
